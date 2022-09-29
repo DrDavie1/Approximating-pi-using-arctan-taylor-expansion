@@ -2,7 +2,7 @@
 
     Disclaimer: 
         - Not everything in this project is my own.(majority is)
-        - This is a university assignment. I do not want to attached the relevant documents as they are university property. Instead to ensure equations are understood i added the Equations Notebook.
+        - This is a university assignment. I do not want to attached the relevant documents as they are university property. Instead, to ensure equations are understood i added the Equations Notebook.
         - ^^ for this reason, each choice is named a,b,c etc as these were questions in the assignment
 
     -----PROJECT OVERVIEW----
